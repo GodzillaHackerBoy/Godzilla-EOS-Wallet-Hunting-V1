@@ -1,2 +1,4 @@
-# Godzilla-EOS-Wallet-Hunting-V1
-哥斯拉区块链钱包助记词碰撞器/密钥碰撞器（EOS链）
+⭐Godzilla EOS Wallet Hunting V1
+⤵哥斯拉区块链钱包助记词碰撞器/密钥碰撞器（EOS链）
+▶https://youtu.be/GLGw90NAnqA
+⬇https://mega.nz/file/DN9zwSKB#L9BsobBWwVvwAFC8QlXaZeEBEEay1fsfn21velO1vHs
